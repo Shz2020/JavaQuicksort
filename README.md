@@ -1,4 +1,4 @@
-# Java high performance Quicksort
+# Java Quicksort
 Quicksort algorithm optimized implementation in Java and performance comparison with Java utils Collections.sort().
 
 Exercise of Java programming with generics, trying to get a high performance implementation of the quicksort algorithm for lists with some tests and comparisons with the default Collections.sort() method.
